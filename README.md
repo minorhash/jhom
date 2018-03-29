@@ -1,2 +1,4 @@
 # jhom
-thesaurus test
+writing lyrics using thesarus.
+
+
