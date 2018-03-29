@@ -1,7 +1,7 @@
 # jhom
 ### writing lyrics using thesarus.
 
-```js
+```javascript
 npm init
 npm i thesaurus -S
 ```
